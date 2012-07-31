@@ -31,7 +31,7 @@
 #import <CoreGraphics/CoreGraphics.h>
 
 @protocol MBProgressHUDDelegate;
-
+//insane
 
 typedef enum {
 	/** Progress is shown using an UIActivityIndicatorView. This is the default. */
